@@ -1,0 +1,9 @@
+cgroup-utils==0.5
+cgroups==0.1.0
+cgroupspy==0.1.6
+Django==1.11.6
+djangorestframework==3.7.0
+multiprocessing==2.6.2.1
+py==1.4.34
+pytest==3.2.3
+pytz==2017.2
